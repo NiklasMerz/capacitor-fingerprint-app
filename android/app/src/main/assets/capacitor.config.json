@@ -1,0 +1,6 @@
+{
+  "appId": "de.niklasmerz.capacitor.fingerprint",
+  "appName": "capacitor-fingerprint",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}

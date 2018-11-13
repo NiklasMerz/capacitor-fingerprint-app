@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">capacitor-fingerprint</string>
+    <string name="title_activity_main">capacitor-fingerprint</string>
+    <string name="package_name">de.niklasmerz.capacitor.fingerprint</string>
+    <string name="fileprovider_authority">de.niklasmerz.capacitor.fingerprint.fileprovider</string>
+    <string name="custom_url_scheme">de.niklasmerz.capacitor.fingerprint</string>
+</resources>
