@@ -2,5 +2,6 @@
   "appId": "de.niklasmerz.capacitor.fingerprint",
   "appName": "capacitor-fingerprint",
   "bundledWebRuntime": false,
-  "webDir": "www"
+  "webDir": "www",
+  "linuxAndroidStudioPath": "/home/niklas/Tools/android-studio/bin/studio.sh"
 }
