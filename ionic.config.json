@@ -1,5 +1,7 @@
 {
   "name": "capacitor-fingerprint",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
